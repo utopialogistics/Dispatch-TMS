@@ -1,0 +1,8 @@
+[
+  {
+    "origin": ["http://localhost:3000", "http://localhost:3001", "https://trucking-dispatch-5adfa.web.app", "https://trucking-dispatch-5adfa.firebaseapp.com"],
+    "method": ["GET", "POST", "PUT", "DELETE", "HEAD", "OPTIONS"],
+    "responseHeader": ["Content-Type", "Authorization", "Content-Length", "User-Agent", "x-goog-resumable", "x-firebase-storage-version"],
+    "maxAgeSeconds": 3600
+  }
+]
